@@ -26,5 +26,9 @@
 <h3>States</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshpandey057&show_icons=true" alt="rajeshpandey057" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshpandey057&layout=compact&hide=html" alt="rajeshpandey057" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshpandey057&show_icons=true" alt="rajeshpandey057" /></p>
+
 <br/><br/>
 
