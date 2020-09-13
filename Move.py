@@ -10,4 +10,4 @@ for i in l:
 l = next(os.walk(source))[1]
 s = os.path.join(source, l[0])
 d = os.path.join(dest, l[0])
-# shutil.move(os.path.join(s, os.listdir(s)[0]), d)
+shutil.move(os.path.join(s, os.listdir(s)[0]), d)
