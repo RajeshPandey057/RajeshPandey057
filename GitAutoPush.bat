@@ -5,4 +5,3 @@ git add --all
 
 git commit -am "Auto Commit "
 git push
-pause
