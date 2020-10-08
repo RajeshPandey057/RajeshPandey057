@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RajeshPandey057](https://github.com/RajeshPandey057)
 
-- 📫 How to reach me **rpandey1498@gmail.com**
+- 📫 Reach me at **rpandey1498@gmail.com**
 
 - ⚡ **Wakanda Forever**
 <br/>
