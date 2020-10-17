@@ -1,0 +1,21 @@
+For bubble sort:
+	For best case:
+		11
+	For worst case:
+		133340
+	For random case:
+		258177
+For insertion sort:
+	For best case:
+		13
+	For worst case:
+		51501
+	For random case:
+		24507
+For selection sort:
+	For best case:
+		28507
+	For worst case:
+		29710
+	For random case:
+		28762
