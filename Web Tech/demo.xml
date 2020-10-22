@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="table.xsl"?>
+<bookstore>
+    <book catagory="children">
+        <title lang="en">Harry Potter</title>
+        <author>J.K.Rowling</author>
+        <year>1992</year>
+        <price>517</price>
+    </book>
+    <book catagory="humour">
+        <title lang="en">Catch-22</title>
+        <author>Heller</author>
+        <year>1972</year>
+        <price>308</price>
+    </book>
+    <book catagory="Adventure">
+        <title lang="en">The Catcher In The Rye</title>
+        <author>J.D.Salinger</author>
+        <year>1951</year>
+        <price>215</price>
+    </book>
+    <book category="thriler">
+        <title lang="en">Divergent</title>
+        <author>Veronica Roth</author>
+        <year>2008</year>
+        <price>275</price>
+    </book>
+    <book catagory="philosofical">
+        <title lang="en">1984</title>
+        <author>George Orwell</author>
+        <year>1948</year>
+        <price>119</price>
+    </book>
+    <book catagory="deplomacy">
+        <title lang="en">Animal Farm</title>
+        <author>George Orwell</author>
+        <year>1946</year>
+        <price>86</price>
+    </book>
+    <book catagory="children">
+        <title lang="en">The Great Expectation</title>
+        <author>Charlse Dickens</author>
+        <year>1890</year>
+        <price>248</price>
+    </book>
+    <book catagory="sci-fi">
+        <title lang="en">Ready Player One</title>
+        <author>Earnest Clint</author>
+        <year>2017</year>
+        <price>375</price>
+    </book>
+    <book catagory="Non-Fiction">
+        <title lang="en">The Brief History Of Time</title>
+        <author>Stephen Hawkings</author>
+        <year>2013</year>
+        <price>119</price>
+    </book>
+</bookstore>
