@@ -1,0 +1,30 @@
+<!- -this is combine code of both- ->
+    <!DOCTYPE html>
+    <html>
+
+    <head>
+        <title>MY INFO</title>
+        <script>
+            var win;
+            function myFunction() {
+                var t1 = "Broweser code name:" + navigator.appCodeName;
+                t1 = t1 + "<br> Broweser name:" + navigator.appName;
+                t1 = t1 + "<br> Broweser Version:" + navigator.appVersion;
+                t1 = t1 + "<br> Cockie Enabel:" + navigator.cookieEnabled;
+                t1 = t1 + "<br> Screen width:" + screen.width;
+                t1 = t1 + "<br> Screen height:" + screen.height;
+                win = window.open("", "MY INFO", "width = 400, height = 400");
+                win.document.write(t1);
+            }
+            function myFunction2() {
+                win.close();
+            }
+        </script>
+    </head>
+
+    <body>
+        <button name="my info" type="button" onclick="myFunction()">Show my info</button>
+        <button name="bye info" type="button" onclick="myFunction2()">hide my info</button>
+    </body>
+
+    </html>
