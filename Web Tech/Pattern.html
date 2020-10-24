@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script>
+        var i, j, y = "", k;
+        function myFunction() {
+
+            for (i = 1; i < 20; i++) {
+                for (j = 1; j <= i; j++) {
+                    y += "*";
+                }
+                y += "<br>";
+            }
+            document.getElementById("demo").innerHTML = y;
+        }
+    </script>
+</head>
+
+<body>
+    <button id="demo2" type="button" onclick="myFunction()">PRESS THIS MAGICAL BUTTON</button>
+    <p id="demo"></p>
+</body>
+
+</html>
