@@ -1,0 +1,52 @@
+<html>
+
+<head>
+    <script>
+        function goBack() {
+            window.history.back()
+        }
+    </script>
+</head>
+
+<body>
+    <input type="button" value="Back" onclick="goBack()">
+</body>
+
+</html>
+
+7. Write a javascript to display Fibonacci series.
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>FIBO</title>
+    <script>
+        function fib(k) {
+            if (k <= 1) {
+                return 1;
+            }
+            else {
+                return (fib(k - 2)) + (fib(k - 1));
+            }
+        }
+        function myFunction() {
+            var v2 = document.getElementById("num").value;
+            var i, y = "1";
+            for (i = 1; i < v2; i++) {
+                y += "<br>" + fib(i);
+            }
+            document.getElementById("demo").innerHTML = y;
+        }
+    </script>
+</head>
+
+<body>
+    <form name="f1" method="get">
+        <input id="num" type="number" name="n">
+        <button id="demo2" type="button" onclick="myFunction()">PRESS TO PRINT THE SERIES</button>
+    </form>
+    <p id="demo"></p>
+</body>
+
+</html>
