@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>registration_form</title>
+    <script type="text/javascript">
+        var t;
+        function validate() {
+            document.getElementById('out').innerHTML = '';
+            document.getElementById('out').insertAdjacentHTML("beforeend", "Name:" + /^\w+\s\w+$/.test(document.getElementById('name').value) + '<br/>');
+            document.getElementById('out').insertAdjacentHTML("beforeend", "Email:" + /^\w+([\.-]?\w+)*@\w+(\.\w{2,3})+$/.test(document.getElementById('email').value) + '<br/>');
+            document.getElementById('out').insertAdjacentHTML("beforeend", "Password:" + /^(?=.*[0-9])(?=.*[!@#$%^&*])(?=.*[a-z])(?=.*[A-Z])[a-zA-Z0-9!@#$%&*]{8,}$/.test(document.getElementById('pwd').value) + '<br/>');
+            document.getElementById('out').insertAdjacentHTML("beforeend", "Mobile:" + /^\d{10}$/.test(document.getElementById('mobile').value) + '<br/>');
+            t = setTimeout(validate, 500);
+        }
+    </script>
+</head>
+
+<body>
+    <h1 style="text-align: center"> REGISTRATION FORM </h1>
+    <p style="text-align: center"><b>VALIDATION CRITERIA</b><br />Name: First Name and Last Name with a space in
+        between<br />Email: Valid Email Address<br />Password: Minimum Length-8 with atleast 1 digit,1 Capital
+        alphabet,1 Small alphabet and 1 special character<br />Mobile: Valid Mobile Number</p>
+    <form name="RegForm" onclick="validate()" method="post">
+        <table align="center">
+            <tr>
+                <th>Name:</th>
+                <td><input type="text" id="name" name="name"></td>
+            </tr>
+            <tr>
+                <th>Email-ID:</th>
+                <td><input type="text" id="email" name="email"></td>
+            </tr>
+            <tr>
+                <th>Password:</th>
+                <td><input type="password" id="pwd" name="password"></td>
+            </tr>
+            <tr>
+                <th>Mobile No.:</th>
+                <td><input type="text" id="mobile" name="mobile"></td>
+            </tr>
+            <tr>
+                <td><button type="submit">Submit</button></td>
+                <td><button type="reset">Clear</button></td>
+            </tr>
+        </table>
+        <p id="out" style="text-align: center"></p>
+    </form>
+</body>
+
+</html>
