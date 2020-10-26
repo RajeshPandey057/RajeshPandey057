@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>PRIME</title>
+    <script>
+        var i = 0, j = 0, y = "", k = 0;
+        function myFunction() {
+            var v1 = document.getElementById("number1").value;
+            var v2 = document.getElementById("number2").value;
+            for (i = v1; i <= v2; i++) {
+                k = 0;
+                for (j = 2; j < i; j++) {
+                    if ((i % j) == 0) {
+                        k = 1;
+                    }
+                }
+                if (k == 0) {
+                    y += i + "<br>";
+                }
+            }
+            document.getElementById("demo").innerHTML = y;
+        }
+
+    </script>
+</head>
+
+<body>
+    <form name="f1" method="get">
+        <input id="number1" type="number" name="n1">
+        <input id="number2" type="number" name="n2">
+        <button id="demo2" type="button" onclick="myFunction()">PRESS TO REVEAL PRIME NUMBERS</button>
+    </form>
+    <p id="demo"></p>
+</body>
+
+</html>
