@@ -1,13 +1,13 @@
-f = open("29_30_31.txt")
-content = f.read()
-print("Before Appending:")
-print(content)
-f.close()
-f = open("29_30_31.txt", 'a')
-f.write("\nThis is appended to file.")
-f.close()
-f = open("29_30_31.txt")
-print("After Appending:")
-content = f.read()
-print(content)
-f.close()
+# -*- coding: utf-8 -*-
+"""
+@author: Shadow
+Diving Right IN
+"""
+import math
+
+A = float(input('Enter the length of First side:'))
+B = float(input('Enter the length of Second side:'))
+C = float(input('Enter the length of Third side:'))
+S = (A+B+C)/2
+Area = math.sqrt(S*(S-A)*(S-B)*(S-C))
+print(Area)
