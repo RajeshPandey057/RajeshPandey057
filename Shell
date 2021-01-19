@@ -1,0 +1,18 @@
+echo "Enter no:"
+read a;
+count=0
+for(( j=2; j<a ; j++))
+do
+	if [ ` expr $a % $j ` = 0 ]
+	then
+		count=` expr $count + 1 `
+	fi
+		
+done
+if [ $count -gt 0 ]
+then
+	echo $a "is not prime."
+else
+	echo $a "is prime."
+fi
+
