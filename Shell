@@ -1,29 +1,7 @@
-echo "Enter Marks Of Sub 1:"
-read e;
-echo "Enter Marks Of Sub 2:"
-read b;
-echo "Enter Marks Of Sub 3:"
-read c;
-echo "Enter Marks Of Sub 4:"
-read d;
-a=` expr $b + $c  `
-a=` expr $a + $e  `
-a=` expr $a + $d  `
-a=` expr $a / 40  `
-if [ $a -gt 8 ] || [ $a -eq 8 ] &&  [ $a -lt 10 ] || [ $a -eq 10 ] 
-	then echo "You have Distinction :)"
-		echo "With grades :"$a
-elif  [ $a -gt 7 ] || [ $a -eq 7 ]  && [ $a -lt 8 ] 
-	then echo "You have passed with first class :)"
-		echo "With grades :"$a
-elif   [ $a -gt 6 ] || [ $a -eq 6 ] && [ $a -lt 7 ]   
-	then echo "You have passed with second class :|"
-		echo "With grades :"$a
-elif [ $a -gt 3 ] || [ $a -eq 3 ] && [ $a -lt 6 ] 
-	then echo "You have passed with pass class "
-		echo "With grades :"$a
-else
-	echo "SORRY! You have Failed in exam :("
-		echo "With grades :"$a
-fi
-
+echo "THE NAME OF YOU FILE IS:"$0
+echo "YOU HAVE GIVEN $# ARGUMESNTES"
+echo "Here is the list of argumesnts taht you have given"
+for i in $@
+do 
+	echo "$i"
+done
