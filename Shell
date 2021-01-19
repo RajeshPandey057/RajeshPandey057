@@ -1,7 +1,14 @@
-echo "User $1 is:"
-a=` expr $(date +%Y) - $2  `
-if [ $a -gt 18 ]
-	then echo "allowed to vote."
-else
-	echo "not allowed to vote."
-fi
+fact() {
+	if [ $1 -gt 1 ]
+		then
+			b=$( expr $1 - 1  ) 
+			d=$( fact $b )
+			c=$( expr $1 \* $d )
+			echo $c
+	else
+		echo $1
+	fi
+}
+read a
+k=` fact "$a" `
+echo $k
