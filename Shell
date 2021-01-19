@@ -1,2 +1,7 @@
-echo "total number of words in your file $1 is:"
-wc -w $1
+echo "User $1 is:"
+a=` expr $(date +%Y) - $2  `
+if [ $a -gt 18 ]
+	then echo "allowed to vote."
+else
+	echo "not allowed to vote."
+fi
