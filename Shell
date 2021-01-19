@@ -1,7 +1,2 @@
-echo "THE NAME OF YOU FILE IS:"$0
-echo "YOU HAVE GIVEN $# ARGUMESNTES"
-echo "Here is the list of argumesnts taht you have given"
-for i in $@
-do 
-	echo "$i"
-done
+echo "total number of words in your file $1 is:"
+wc -w $1

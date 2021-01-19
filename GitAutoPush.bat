@@ -2,7 +2,6 @@ C:\Users\Rajesh\AppData\Local\Programs\Python\Python39\python.exe "D:\Profession
 git add --all
 git commit -am "Auto Commit "
 git push
-set /p DUMMY=Hit ENTER to continue...
 C:\Users\Rajesh\AppData\Local\Programs\Python\Python39\python.exe "D:\Professional\RajeshPandey057\Move.py"
 git add --all
 git commit -am "Auto Commit "
