@@ -1,0 +1,15 @@
+import re
+line = "happiness can be found in darkest of hours, if only one remembers how to turn on the lights."
+match_obj = re.match(r'(.*) can (.*)', line)
+print("Before can:")
+print(match_obj.group(1))
+print("After can:")
+print(match_obj.group(2))
+print("span of match")
+print(match_obj.span())
+search_obj = re.findall(r'\bhour*', line)
+print("hour at boundries:")
+print(search_obj)
+print("on in non-boundry:")
+search_obj = re.findall(r'\Bon*', line)
+print(search_obj)
