@@ -1,3 +1,10 @@
-echo "Enter Something:";
-read a;
-echo "you Entered:"$a;
+b=` grep -oi [aeiou] $1 | wc -l `
+echo "Number of vowels: "$b
+b=` grep -o [" "] $1 | wc -l `
+echo "Number of blank space: "$b
+b=` wc -m  $1 `
+echo "Number of characters: "$b
+b=` wc -l $1 `
+echo "Number of lines: "$b
+b=` grep -o [\!\@\#\$\%\^\&\*\~] $1 | wc -l `
+echo "Number of special characters: "$b
