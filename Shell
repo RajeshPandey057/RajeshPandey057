@@ -1,14 +1,5 @@
-fact() {
-	if [ $1 -gt 1 ]
-		then
-			b=$( expr $1 - 1  ) 
-			d=$( fact $b )
-			c=$( expr $1 \* $d )
-			echo $c
-	else
-		echo $1
-	fi
-}
+echo "Enter your bill"
 read a
-k=` fact "$a" `
-echo $k
+b=` expr $a \* 10 `
+b=` expr $b / 100 `
+echo "You should tip:"$b
