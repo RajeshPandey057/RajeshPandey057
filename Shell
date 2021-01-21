@@ -1,5 +1,3 @@
-echo "Enter your bill"
-read a
-b=` expr $a \* 10 `
-b=` expr $b / 100 `
-echo "You should tip:"$b
+echo "Enter Something:";
+read a;
+echo "you Entered:"$a;
