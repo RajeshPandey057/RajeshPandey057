@@ -1,11 +1,2 @@
-echo "Choose one of the option:"
-echo "1.Option A"
-echo "2.Option B"
-read a
-case $a in
-1)	echo "Apka jvab bilkul sahi hai! Apko milte hai pure 1 crore :)"
-		;;
-2)	echo "Afsos apka javab galt hai :("
-		;;
-*)	echo "Apka javab option me hi nahi hai :|"
-esac
+b=` grep -o $2 $1 | wc -l`
+echo $b
