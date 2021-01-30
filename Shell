@@ -1,10 +1,10 @@
-echo "Enter word to compare:"
-read b
-for i in $@
-do 
-	k=` grep $b $i | wc -l `
-	if [ $k -eq 0 ]
-		then echo "Word not found in " $i
-		exit
-	fi
+echo "Enter your answer:"
+read k
+until [ $k -eq 1 ]
+do
+	echo "Afsos apka javab bhi galt hai :("
+	echo "Fir se prayas kare"
+	read k
 done
+echo "Apka jvab bilkul sahi hai! Apko milte hai pure 1 crore :)"
+ 
