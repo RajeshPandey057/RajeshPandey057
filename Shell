@@ -1,10 +1,20 @@
-echo "Enter your answer:"
-read k
-until [ $k -eq 1 ]
-do
-	echo "Afsos apka javab bhi galt hai :("
-	echo "Fir se prayas kare"
-	read k
-done
-echo "Apka jvab bilkul sahi hai! Apko milte hai pure 1 crore :)"
- 
+echo "Enter your unit amount"
+read u
+p=0
+if [ $u -gt 200 ]
+then 
+	k=` expr $u - 200 `
+	u=` expr $u - $k `
+	p=` expr 300 \* $k `
+fi
+if [ $u -gt 100 ]
+then
+	k=` expr $u - 150 `
+	u=` expr $u - $k `
+	t=` expr 2 \* $k `
+	p=` expr $p + $t `
+fi
+t=` expr 75 \* $u `
+p=` expr $p + $t `
+p=` expr $p / 100 `
+echo "The bill is: "$p
