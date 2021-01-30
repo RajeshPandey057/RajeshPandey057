@@ -1,20 +1,20 @@
-echo "Enter your unit amount"
-read u
-p=0
-if [ $u -gt 200 ]
-then 
-	k=` expr $u - 200 `
-	u=` expr $u - $k `
-	p=` expr 300 \* $k `
-fi
-if [ $u -gt 100 ]
-then
-	k=` expr $u - 150 `
-	u=` expr $u - $k `
-	t=` expr 2 \* $k `
-	p=` expr $p + $t `
-fi
-t=` expr 75 \* $u `
-p=` expr $p + $t `
-p=` expr $p / 100 `
-echo "The bill is: "$p
+#!/bin/bash
+a=( 20 10 65 43 23 )
+echo ${a[@]}
+i=0
+while [ $i -lt 5 ]
+do 
+	k=$i
+	while [ $k -lt 5 ]
+	do
+		if [ ${a[$i]} -gt ${a[$k]} ]
+		then
+			temp=${a[$i]}
+			a[$i]=${a[$k]}
+			a[$k]=$temp
+		fi
+		k=`expr $k + 1`
+	done
+	i=` expr $i + 1 `
+done
+echo ${a[@]}
