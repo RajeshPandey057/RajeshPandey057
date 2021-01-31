@@ -1,4 +1,0 @@
-a=`who`
-b=`date`
-echo "User is: "$a
-echo "Date and time is:"$b
