@@ -1,0 +1,7 @@
+D:\College\SEM 6\16CP032_NET\practical4\practical4\obj\Debug\practical4.csprojAssemblyReference.cache
+D:\College\SEM 6\16CP032_NET\practical4\practical4\obj\Debug\practical4.csproj.CoreCompileInputs.cache
+D:\College\SEM 6\16CP032_NET\practical4\practical4\bin\Debug\practical4.exe.config
+D:\College\SEM 6\16CP032_NET\practical4\practical4\bin\Debug\practical4.exe
+D:\College\SEM 6\16CP032_NET\practical4\practical4\bin\Debug\practical4.pdb
+D:\College\SEM 6\16CP032_NET\practical4\practical4\obj\Debug\practical4.exe
+D:\College\SEM 6\16CP032_NET\practical4\practical4\obj\Debug\practical4.pdb

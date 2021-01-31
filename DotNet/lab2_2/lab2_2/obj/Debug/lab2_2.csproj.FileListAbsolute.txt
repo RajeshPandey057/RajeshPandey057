@@ -1,0 +1,7 @@
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\lab2_2\lab2_2\bin\Debug\lab2_2.exe.config
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\lab2_2\lab2_2\bin\Debug\lab2_2.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\lab2_2\lab2_2\bin\Debug\lab2_2.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\lab2_2\lab2_2\obj\Debug\lab2_2.csprojAssemblyReference.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\lab2_2\lab2_2\obj\Debug\lab2_2.csproj.CoreCompileInputs.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\lab2_2\lab2_2\obj\Debug\lab2_2.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\lab2_2\lab2_2\obj\Debug\lab2_2.pdb

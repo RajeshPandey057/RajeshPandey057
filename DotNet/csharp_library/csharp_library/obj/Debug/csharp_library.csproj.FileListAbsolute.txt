@@ -1,0 +1,5 @@
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\csharp_library\csharp_library\bin\Debug\csharp_library.dll
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\csharp_library\csharp_library\bin\Debug\csharp_library.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\csharp_library\csharp_library\obj\Debug\csharp_library.csproj.CoreCompileInputs.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\csharp_library\csharp_library\obj\Debug\csharp_library.dll
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\csharp_library\csharp_library\obj\Debug\csharp_library.pdb

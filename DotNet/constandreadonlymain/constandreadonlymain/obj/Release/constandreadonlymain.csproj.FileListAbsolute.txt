@@ -1,0 +1,10 @@
+E:\Educational\dot.NET\constandreadonlymain\constandreadonlymain\bin\Release\constandreadonlymain.exe.config
+E:\Educational\dot.NET\constandreadonlymain\constandreadonlymain\bin\Release\constandreadonlymain.exe
+E:\Educational\dot.NET\constandreadonlymain\constandreadonlymain\bin\Release\constandreadonlymain.pdb
+E:\Educational\dot.NET\constandreadonlymain\constandreadonlymain\bin\Release\constandreadonly.dll
+E:\Educational\dot.NET\constandreadonlymain\constandreadonlymain\bin\Release\constandreadonly.pdb
+E:\Educational\dot.NET\constandreadonlymain\constandreadonlymain\obj\Release\constandreadonlymain.csprojAssemblyReference.cache
+E:\Educational\dot.NET\constandreadonlymain\constandreadonlymain\obj\Release\constandreadonlymain.csproj.CoreCompileInputs.cache
+E:\Educational\dot.NET\constandreadonlymain\constandreadonlymain\obj\Release\constandreadonlymain.csproj.CopyComplete
+E:\Educational\dot.NET\constandreadonlymain\constandreadonlymain\obj\Release\constandreadonlymain.exe
+E:\Educational\dot.NET\constandreadonlymain\constandreadonlymain\obj\Release\constandreadonlymain.pdb

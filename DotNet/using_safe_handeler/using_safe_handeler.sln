@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "using_safe_handeler", "using_safe_handeler\using_safe_handeler.csproj", "{60E180C9-44D2-42AF-9809-61B158AFC7BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E180C9-44D2-42AF-9809-61B158AFC7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E180C9-44D2-42AF-9809-61B158AFC7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E180C9-44D2-42AF-9809-61B158AFC7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E180C9-44D2-42AF-9809-61B158AFC7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96B6BCB6-2992-42D1-8452-D8A12F04312F}
+	EndGlobalSection
+EndGlobal

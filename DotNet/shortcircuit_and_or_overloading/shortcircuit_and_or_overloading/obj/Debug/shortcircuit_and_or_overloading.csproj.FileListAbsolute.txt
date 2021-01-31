@@ -1,0 +1,7 @@
+E:\Educational\dot.NET\codes\shortcircuit_and_or_overloading\shortcircuit_and_or_overloading\bin\Debug\shortcircuit_and_or_overloading.exe.config
+E:\Educational\dot.NET\codes\shortcircuit_and_or_overloading\shortcircuit_and_or_overloading\bin\Debug\shortcircuit_and_or_overloading.exe
+E:\Educational\dot.NET\codes\shortcircuit_and_or_overloading\shortcircuit_and_or_overloading\bin\Debug\shortcircuit_and_or_overloading.pdb
+E:\Educational\dot.NET\codes\shortcircuit_and_or_overloading\shortcircuit_and_or_overloading\obj\Debug\shortcircuit_and_or_overloading.csprojAssemblyReference.cache
+E:\Educational\dot.NET\codes\shortcircuit_and_or_overloading\shortcircuit_and_or_overloading\obj\Debug\shortcircuit_and_or_overloading.csproj.CoreCompileInputs.cache
+E:\Educational\dot.NET\codes\shortcircuit_and_or_overloading\shortcircuit_and_or_overloading\obj\Debug\shortcircuit_and_or_overloading.exe
+E:\Educational\dot.NET\codes\shortcircuit_and_or_overloading\shortcircuit_and_or_overloading\obj\Debug\shortcircuit_and_or_overloading.pdb

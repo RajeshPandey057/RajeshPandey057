@@ -1,0 +1,14 @@
+E:\Educational\dot.NET\Garbage Collector Weak Referance\Garbage Collector Weak Referance\bin\Release\Garbage Collector Weak Referance.exe.config
+E:\Educational\dot.NET\Garbage Collector Weak Referance\Garbage Collector Weak Referance\bin\Release\Garbage Collector Weak Referance.exe
+E:\Educational\dot.NET\Garbage Collector Weak Referance\Garbage Collector Weak Referance\bin\Release\Garbage Collector Weak Referance.pdb
+E:\Educational\dot.NET\Garbage Collector Weak Referance\Garbage Collector Weak Referance\obj\Release\Garbage Collector Weak Referance.csproj.CoreCompileInputs.cache
+E:\Educational\dot.NET\Garbage Collector Weak Referance\Garbage Collector Weak Referance\obj\Release\Garbage Collector Weak Referance.exe
+E:\Educational\dot.NET\Garbage Collector Weak Referance\Garbage Collector Weak Referance\obj\Release\Garbage Collector Weak Referance.pdb
+E:\Educational\dot.NET\Garbage Collector Weak Referance\Garbage Collector Weak Referance\obj\Release\Garbage Collector Weak Referance.csprojAssemblyReference.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Garbage Collector Weak Referance\Garbage Collector Weak Referance\bin\Release\Garbage Collector Weak Referance.exe.config
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Garbage Collector Weak Referance\Garbage Collector Weak Referance\bin\Release\Garbage Collector Weak Referance.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Garbage Collector Weak Referance\Garbage Collector Weak Referance\bin\Release\Garbage Collector Weak Referance.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Garbage Collector Weak Referance\Garbage Collector Weak Referance\obj\Release\Garbage Collector Weak Referance.csprojAssemblyReference.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Garbage Collector Weak Referance\Garbage Collector Weak Referance\obj\Release\Garbage Collector Weak Referance.csproj.CoreCompileInputs.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Garbage Collector Weak Referance\Garbage Collector Weak Referance\obj\Release\Garbage Collector Weak Referance.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Garbage Collector Weak Referance\Garbage Collector Weak Referance\obj\Release\Garbage Collector Weak Referance.pdb

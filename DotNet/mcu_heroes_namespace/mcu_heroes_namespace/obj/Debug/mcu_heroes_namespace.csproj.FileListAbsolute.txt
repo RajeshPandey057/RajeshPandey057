@@ -1,0 +1,14 @@
+C:\Users\chint\source\repos\mcu_heroes_namespace\mcu_heroes_namespace\bin\Debug\mcu_heroes_namespace.exe.config
+C:\Users\chint\source\repos\mcu_heroes_namespace\mcu_heroes_namespace\bin\Debug\mcu_heroes_namespace.exe
+C:\Users\chint\source\repos\mcu_heroes_namespace\mcu_heroes_namespace\bin\Debug\mcu_heroes_namespace.pdb
+C:\Users\chint\source\repos\mcu_heroes_namespace\mcu_heroes_namespace\obj\Debug\mcu_heroes_namespace.csprojAssemblyReference.cache
+C:\Users\chint\source\repos\mcu_heroes_namespace\mcu_heroes_namespace\obj\Debug\mcu_heroes_namespace.csproj.CoreCompileInputs.cache
+C:\Users\chint\source\repos\mcu_heroes_namespace\mcu_heroes_namespace\obj\Debug\mcu_heroes_namespace.exe
+C:\Users\chint\source\repos\mcu_heroes_namespace\mcu_heroes_namespace\obj\Debug\mcu_heroes_namespace.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\mcu_heroes_namespace\mcu_heroes_namespace\bin\Debug\mcu_heroes_namespace.exe.config
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\mcu_heroes_namespace\mcu_heroes_namespace\bin\Debug\mcu_heroes_namespace.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\mcu_heroes_namespace\mcu_heroes_namespace\bin\Debug\mcu_heroes_namespace.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\mcu_heroes_namespace\mcu_heroes_namespace\obj\Debug\mcu_heroes_namespace.csprojAssemblyReference.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\mcu_heroes_namespace\mcu_heroes_namespace\obj\Debug\mcu_heroes_namespace.csproj.CoreCompileInputs.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\mcu_heroes_namespace\mcu_heroes_namespace\obj\Debug\mcu_heroes_namespace.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\mcu_heroes_namespace\mcu_heroes_namespace\obj\Debug\mcu_heroes_namespace.pdb

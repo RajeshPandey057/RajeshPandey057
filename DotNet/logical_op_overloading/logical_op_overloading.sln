@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logical_op_overloading", "logical_op_overloading\logical_op_overloading.csproj", "{3FFEBB32-D6CE-4FFC-B7D7-B25F80135911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FFEBB32-D6CE-4FFC-B7D7-B25F80135911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFEBB32-D6CE-4FFC-B7D7-B25F80135911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFEBB32-D6CE-4FFC-B7D7-B25F80135911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFEBB32-D6CE-4FFC-B7D7-B25F80135911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422AD88D-83B2-433B-8772-9E1F007E29A6}
+	EndGlobalSection
+EndGlobal

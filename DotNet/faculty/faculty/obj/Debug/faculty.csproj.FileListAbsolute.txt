@@ -1,0 +1,7 @@
+E:\Educational\dot.NET\faculty\faculty\bin\Debug\faculty.exe.config
+E:\Educational\dot.NET\faculty\faculty\bin\Debug\faculty.exe
+E:\Educational\dot.NET\faculty\faculty\bin\Debug\faculty.pdb
+E:\Educational\dot.NET\faculty\faculty\obj\Debug\faculty.csprojAssemblyReference.cache
+E:\Educational\dot.NET\faculty\faculty\obj\Debug\faculty.csproj.CoreCompileInputs.cache
+E:\Educational\dot.NET\faculty\faculty\obj\Debug\faculty.exe
+E:\Educational\dot.NET\faculty\faculty\obj\Debug\faculty.pdb

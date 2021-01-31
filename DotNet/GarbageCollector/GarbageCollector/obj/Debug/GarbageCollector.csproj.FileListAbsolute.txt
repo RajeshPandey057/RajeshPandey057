@@ -1,0 +1,7 @@
+C:\Users\chint\source\repos\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.exe.config
+C:\Users\chint\source\repos\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.exe
+C:\Users\chint\source\repos\GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.pdb
+C:\Users\chint\source\repos\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.csprojAssemblyReference.cache
+C:\Users\chint\source\repos\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.csproj.CoreCompileInputs.cache
+C:\Users\chint\source\repos\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.exe
+C:\Users\chint\source\repos\GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.pdb

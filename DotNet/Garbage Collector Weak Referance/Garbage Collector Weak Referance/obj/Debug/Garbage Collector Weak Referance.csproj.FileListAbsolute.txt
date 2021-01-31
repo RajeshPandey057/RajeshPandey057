@@ -1,0 +1,6 @@
+E:\Educational\dot.NET\Garbage Collector Weak Referance\Garbage Collector Weak Referance\bin\Debug\Garbage Collector Weak Referance.exe.config
+E:\Educational\dot.NET\Garbage Collector Weak Referance\Garbage Collector Weak Referance\bin\Debug\Garbage Collector Weak Referance.exe
+E:\Educational\dot.NET\Garbage Collector Weak Referance\Garbage Collector Weak Referance\bin\Debug\Garbage Collector Weak Referance.pdb
+E:\Educational\dot.NET\Garbage Collector Weak Referance\Garbage Collector Weak Referance\obj\Debug\Garbage Collector Weak Referance.csproj.CoreCompileInputs.cache
+E:\Educational\dot.NET\Garbage Collector Weak Referance\Garbage Collector Weak Referance\obj\Debug\Garbage Collector Weak Referance.exe
+E:\Educational\dot.NET\Garbage Collector Weak Referance\Garbage Collector Weak Referance\obj\Debug\Garbage Collector Weak Referance.pdb

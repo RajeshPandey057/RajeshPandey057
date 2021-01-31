@@ -1,0 +1,7 @@
+D:\College\SEM 6\16CP032_NET\Programs\destructorDisposable\destructorDisposable\bin\Debug\destructorDisposable.exe.config
+D:\College\SEM 6\16CP032_NET\Programs\destructorDisposable\destructorDisposable\bin\Debug\destructorDisposable.exe
+D:\College\SEM 6\16CP032_NET\Programs\destructorDisposable\destructorDisposable\bin\Debug\destructorDisposable.pdb
+D:\College\SEM 6\16CP032_NET\Programs\destructorDisposable\destructorDisposable\obj\Debug\destructorDisposable.csproj.CoreCompileInputs.cache
+D:\College\SEM 6\16CP032_NET\Programs\destructorDisposable\destructorDisposable\obj\Debug\destructorDisposable.exe
+D:\College\SEM 6\16CP032_NET\Programs\destructorDisposable\destructorDisposable\obj\Debug\destructorDisposable.pdb
+D:\College\SEM 6\16CP032_NET\Programs\destructorDisposable\destructorDisposable\obj\Debug\destructorDisposable.csprojAssemblyReference.cache

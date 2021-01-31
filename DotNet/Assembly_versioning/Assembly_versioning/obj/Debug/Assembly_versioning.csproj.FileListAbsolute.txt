@@ -1,0 +1,14 @@
+C:\Users\chint\source\repos\Assembly_versioning\Assembly_versioning\bin\Debug\Assembly_versioning.exe.config
+C:\Users\chint\source\repos\Assembly_versioning\Assembly_versioning\bin\Debug\Assembly_versioning.exe
+C:\Users\chint\source\repos\Assembly_versioning\Assembly_versioning\bin\Debug\Assembly_versioning.pdb
+C:\Users\chint\source\repos\Assembly_versioning\Assembly_versioning\obj\Debug\Assembly_versioning.csprojAssemblyReference.cache
+C:\Users\chint\source\repos\Assembly_versioning\Assembly_versioning\obj\Debug\Assembly_versioning.csproj.CoreCompileInputs.cache
+C:\Users\chint\source\repos\Assembly_versioning\Assembly_versioning\obj\Debug\Assembly_versioning.exe
+C:\Users\chint\source\repos\Assembly_versioning\Assembly_versioning\obj\Debug\Assembly_versioning.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Assembly_versioning\Assembly_versioning\bin\Debug\Assembly_versioning.exe.config
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Assembly_versioning\Assembly_versioning\bin\Debug\Assembly_versioning.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Assembly_versioning\Assembly_versioning\bin\Debug\Assembly_versioning.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Assembly_versioning\Assembly_versioning\obj\Debug\Assembly_versioning.csprojAssemblyReference.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Assembly_versioning\Assembly_versioning\obj\Debug\Assembly_versioning.csproj.CoreCompileInputs.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Assembly_versioning\Assembly_versioning\obj\Debug\Assembly_versioning.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Assembly_versioning\Assembly_versioning\obj\Debug\Assembly_versioning.pdb

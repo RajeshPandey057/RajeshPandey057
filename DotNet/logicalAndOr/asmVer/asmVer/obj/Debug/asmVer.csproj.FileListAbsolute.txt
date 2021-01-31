@@ -1,0 +1,7 @@
+D:\College\SEM 6\16CP032_NET\Programs\asmVer\asmVer\obj\Debug\asmVer.csprojAssemblyReference.cache
+D:\College\SEM 6\16CP032_NET\Programs\asmVer\asmVer\obj\Debug\asmVer.csproj.CoreCompileInputs.cache
+D:\College\SEM 6\16CP032_NET\Programs\asmVer\asmVer\bin\Debug\asmVer.exe.config
+D:\College\SEM 6\16CP032_NET\Programs\asmVer\asmVer\bin\Debug\asmVer.exe
+D:\College\SEM 6\16CP032_NET\Programs\asmVer\asmVer\bin\Debug\asmVer.pdb
+D:\College\SEM 6\16CP032_NET\Programs\asmVer\asmVer\obj\Debug\asmVer.exe
+D:\College\SEM 6\16CP032_NET\Programs\asmVer\asmVer\obj\Debug\asmVer.pdb

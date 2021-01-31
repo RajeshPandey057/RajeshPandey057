@@ -1,0 +1,14 @@
+E:\Educational\dot.NET\codes\with_disposel\with_disposel\bin\Debug\with_disposel.exe.config
+E:\Educational\dot.NET\codes\with_disposel\with_disposel\bin\Debug\with_disposel.exe
+E:\Educational\dot.NET\codes\with_disposel\with_disposel\bin\Debug\with_disposel.pdb
+E:\Educational\dot.NET\codes\with_disposel\with_disposel\obj\Debug\with_disposel.csproj.CoreCompileInputs.cache
+E:\Educational\dot.NET\codes\with_disposel\with_disposel\obj\Debug\with_disposel.exe
+E:\Educational\dot.NET\codes\with_disposel\with_disposel\obj\Debug\with_disposel.pdb
+E:\Educational\dot.NET\codes\with_disposel\with_disposel\obj\Debug\with_disposel.csprojAssemblyReference.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\with_disposel\with_disposel\bin\Debug\with_disposel.exe.config
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\with_disposel\with_disposel\bin\Debug\with_disposel.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\with_disposel\with_disposel\bin\Debug\with_disposel.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\with_disposel\with_disposel\obj\Debug\with_disposel.csprojAssemblyReference.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\with_disposel\with_disposel\obj\Debug\with_disposel.csproj.CoreCompileInputs.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\with_disposel\with_disposel\obj\Debug\with_disposel.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\with_disposel\with_disposel\obj\Debug\with_disposel.pdb

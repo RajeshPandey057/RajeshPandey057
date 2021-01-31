@@ -1,0 +1,10 @@
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\constandreadonlymain\constandreadonlymain\bin\Debug\constandreadonlymain.exe.config
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\constandreadonlymain\constandreadonlymain\bin\Debug\constandreadonlymain.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\constandreadonlymain\constandreadonlymain\bin\Debug\constandreadonlymain.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\constandreadonlymain\constandreadonlymain\bin\Debug\constandreadonly.dll
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\constandreadonlymain\constandreadonlymain\bin\Debug\constandreadonly.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\constandreadonlymain\constandreadonlymain\obj\Debug\constandreadonlymain.csprojAssemblyReference.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\constandreadonlymain\constandreadonlymain\obj\Debug\constandreadonlymain.csproj.CoreCompileInputs.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\constandreadonlymain\constandreadonlymain\obj\Debug\constandreadonlymain.csproj.CopyComplete
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\constandreadonlymain\constandreadonlymain\obj\Debug\constandreadonlymain.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\constandreadonlymain\constandreadonlymain\obj\Debug\constandreadonlymain.pdb

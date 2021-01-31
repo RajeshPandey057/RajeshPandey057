@@ -1,0 +1,21 @@
+C:\Users\chint\source\repos\greetings\greetings\bin\Debug\greetings.exe.config
+C:\Users\chint\source\repos\greetings\greetings\bin\Debug\greetings.exe
+C:\Users\chint\source\repos\greetings\greetings\bin\Debug\greetings.pdb
+C:\Users\chint\source\repos\greetings\greetings\obj\Debug\greetings.csprojAssemblyReference.cache
+C:\Users\chint\source\repos\greetings\greetings\obj\Debug\greetings.csproj.CoreCompileInputs.cache
+C:\Users\chint\source\repos\greetings\greetings\obj\Debug\greetings.exe
+C:\Users\chint\source\repos\greetings\greetings\obj\Debug\greetings.pdb
+E:\Educational\dot.NET\greetings\greetings\bin\Debug\greetings.exe.config
+E:\Educational\dot.NET\greetings\greetings\bin\Debug\greetings.exe
+E:\Educational\dot.NET\greetings\greetings\bin\Debug\greetings.pdb
+E:\Educational\dot.NET\greetings\greetings\obj\Debug\greetings.csprojAssemblyReference.cache
+E:\Educational\dot.NET\greetings\greetings\obj\Debug\greetings.csproj.CoreCompileInputs.cache
+E:\Educational\dot.NET\greetings\greetings\obj\Debug\greetings.exe
+E:\Educational\dot.NET\greetings\greetings\obj\Debug\greetings.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\greetings\greetings\bin\Debug\greetings.exe.config
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\greetings\greetings\bin\Debug\greetings.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\greetings\greetings\bin\Debug\greetings.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\greetings\greetings\obj\Debug\greetings.csprojAssemblyReference.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\greetings\greetings\obj\Debug\greetings.csproj.CoreCompileInputs.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\greetings\greetings\obj\Debug\greetings.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\greetings\greetings\obj\Debug\greetings.pdb

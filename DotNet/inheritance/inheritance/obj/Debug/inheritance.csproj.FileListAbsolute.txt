@@ -1,0 +1,6 @@
+E:\Educational\dot.NET\codes\inheritance\inheritance\bin\Debug\inheritance.exe.config
+E:\Educational\dot.NET\codes\inheritance\inheritance\bin\Debug\inheritance.exe
+E:\Educational\dot.NET\codes\inheritance\inheritance\bin\Debug\inheritance.pdb
+E:\Educational\dot.NET\codes\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+E:\Educational\dot.NET\codes\inheritance\inheritance\obj\Debug\inheritance.exe
+E:\Educational\dot.NET\codes\inheritance\inheritance\obj\Debug\inheritance.pdb

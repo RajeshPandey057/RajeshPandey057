@@ -1,0 +1,14 @@
+D:\College\SEM 6\16CP032_NET\indexerApp\indexerApp\obj\Debug\indexerApp.csprojAssemblyReference.cache
+D:\College\SEM 6\16CP032_NET\indexerApp\indexerApp\obj\Debug\indexerApp.csproj.CoreCompileInputs.cache
+D:\College\SEM 6\16CP032_NET\indexerApp\indexerApp\bin\Debug\indexerApp.exe.config
+D:\College\SEM 6\16CP032_NET\indexerApp\indexerApp\bin\Debug\indexerApp.exe
+D:\College\SEM 6\16CP032_NET\indexerApp\indexerApp\bin\Debug\indexerApp.pdb
+D:\College\SEM 6\16CP032_NET\indexerApp\indexerApp\obj\Debug\indexerApp.exe
+D:\College\SEM 6\16CP032_NET\indexerApp\indexerApp\obj\Debug\indexerApp.pdb
+D:\College\SEM 6\16CP032_NET\Programs\indexerApp\indexerApp\bin\Debug\indexerApp.exe.config
+D:\College\SEM 6\16CP032_NET\Programs\indexerApp\indexerApp\bin\Debug\indexerApp.exe
+D:\College\SEM 6\16CP032_NET\Programs\indexerApp\indexerApp\bin\Debug\indexerApp.pdb
+D:\College\SEM 6\16CP032_NET\Programs\indexerApp\indexerApp\obj\Debug\indexerApp.csprojAssemblyReference.cache
+D:\College\SEM 6\16CP032_NET\Programs\indexerApp\indexerApp\obj\Debug\indexerApp.csproj.CoreCompileInputs.cache
+D:\College\SEM 6\16CP032_NET\Programs\indexerApp\indexerApp\obj\Debug\indexerApp.exe
+D:\College\SEM 6\16CP032_NET\Programs\indexerApp\indexerApp\obj\Debug\indexerApp.pdb

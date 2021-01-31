@@ -1,0 +1,13 @@
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\vbconsoleapp\vbconsoleapp\bin\Debug\vbconsoleapp.exe.config
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\vbconsoleapp\vbconsoleapp\bin\Debug\vbconsoleapp.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\vbconsoleapp\vbconsoleapp\bin\Debug\vbconsoleapp.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\vbconsoleapp\vbconsoleapp\bin\Debug\vbconsoleapp.xml
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\vbconsoleapp\vbconsoleapp\bin\Debug\csharp_library.dll
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\vbconsoleapp\vbconsoleapp\bin\Debug\csharp_library.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\vbconsoleapp\vbconsoleapp\obj\Debug\vbconsoleapp.Resources.resources
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\vbconsoleapp\vbconsoleapp\obj\Debug\vbconsoleapp.vbproj.GenerateResource.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\vbconsoleapp\vbconsoleapp\obj\Debug\vbconsoleapp.vbproj.CoreCompileInputs.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\vbconsoleapp\vbconsoleapp\obj\Debug\vbconsoleapp.vbproj.CopyComplete
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\vbconsoleapp\vbconsoleapp\obj\Debug\vbconsoleapp.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\vbconsoleapp\vbconsoleapp\obj\Debug\vbconsoleapp.xml
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\vbconsoleapp\vbconsoleapp\obj\Debug\vbconsoleapp.pdb

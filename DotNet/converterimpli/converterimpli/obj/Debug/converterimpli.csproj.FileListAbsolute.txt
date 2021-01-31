@@ -1,0 +1,14 @@
+C:\Users\chint\source\repos\converterimpli\converterimpli\bin\Debug\converterimpli.exe.config
+C:\Users\chint\source\repos\converterimpli\converterimpli\bin\Debug\converterimpli.exe
+C:\Users\chint\source\repos\converterimpli\converterimpli\bin\Debug\converterimpli.pdb
+C:\Users\chint\source\repos\converterimpli\converterimpli\obj\Debug\converterimpli.csprojAssemblyReference.cache
+C:\Users\chint\source\repos\converterimpli\converterimpli\obj\Debug\converterimpli.csproj.CoreCompileInputs.cache
+C:\Users\chint\source\repos\converterimpli\converterimpli\obj\Debug\converterimpli.exe
+C:\Users\chint\source\repos\converterimpli\converterimpli\obj\Debug\converterimpli.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\converterimpli\converterimpli\bin\Debug\converterimpli.exe.config
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\converterimpli\converterimpli\bin\Debug\converterimpli.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\converterimpli\converterimpli\bin\Debug\converterimpli.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\converterimpli\converterimpli\obj\Debug\converterimpli.csprojAssemblyReference.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\converterimpli\converterimpli\obj\Debug\converterimpli.csproj.CoreCompileInputs.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\converterimpli\converterimpli\obj\Debug\converterimpli.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\converterimpli\converterimpli\obj\Debug\converterimpli.pdb

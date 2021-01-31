@@ -1,0 +1,14 @@
+E:\Educational\dot.NET\codes\using_safe_handeler\using_safe_handeler\bin\Debug\using_safe_handeler.exe.config
+E:\Educational\dot.NET\codes\using_safe_handeler\using_safe_handeler\bin\Debug\using_safe_handeler.exe
+E:\Educational\dot.NET\codes\using_safe_handeler\using_safe_handeler\bin\Debug\using_safe_handeler.pdb
+E:\Educational\dot.NET\codes\using_safe_handeler\using_safe_handeler\obj\Debug\using_safe_handeler.csprojAssemblyReference.cache
+E:\Educational\dot.NET\codes\using_safe_handeler\using_safe_handeler\obj\Debug\using_safe_handeler.csproj.CoreCompileInputs.cache
+E:\Educational\dot.NET\codes\using_safe_handeler\using_safe_handeler\obj\Debug\using_safe_handeler.exe
+E:\Educational\dot.NET\codes\using_safe_handeler\using_safe_handeler\obj\Debug\using_safe_handeler.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\using_safe_handeler\using_safe_handeler\bin\Debug\using_safe_handeler.exe.config
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\using_safe_handeler\using_safe_handeler\bin\Debug\using_safe_handeler.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\using_safe_handeler\using_safe_handeler\bin\Debug\using_safe_handeler.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\using_safe_handeler\using_safe_handeler\obj\Debug\using_safe_handeler.csprojAssemblyReference.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\using_safe_handeler\using_safe_handeler\obj\Debug\using_safe_handeler.csproj.CoreCompileInputs.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\using_safe_handeler\using_safe_handeler\obj\Debug\using_safe_handeler.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\using_safe_handeler\using_safe_handeler\obj\Debug\using_safe_handeler.pdb

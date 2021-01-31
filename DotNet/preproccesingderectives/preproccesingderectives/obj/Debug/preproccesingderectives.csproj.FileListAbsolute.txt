@@ -1,0 +1,14 @@
+E:\Educational\dot.NET\preproccesingderectives\preproccesingderectives\bin\Debug\preproccesingderectives.exe.config
+E:\Educational\dot.NET\preproccesingderectives\preproccesingderectives\bin\Debug\preproccesingderectives.exe
+E:\Educational\dot.NET\preproccesingderectives\preproccesingderectives\bin\Debug\preproccesingderectives.pdb
+E:\Educational\dot.NET\preproccesingderectives\preproccesingderectives\obj\Debug\preproccesingderectives.csprojAssemblyReference.cache
+E:\Educational\dot.NET\preproccesingderectives\preproccesingderectives\obj\Debug\preproccesingderectives.csproj.CoreCompileInputs.cache
+E:\Educational\dot.NET\preproccesingderectives\preproccesingderectives\obj\Debug\preproccesingderectives.exe
+E:\Educational\dot.NET\preproccesingderectives\preproccesingderectives\obj\Debug\preproccesingderectives.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\preproccesingderectives\preproccesingderectives\bin\Debug\preproccesingderectives.exe.config
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\preproccesingderectives\preproccesingderectives\bin\Debug\preproccesingderectives.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\preproccesingderectives\preproccesingderectives\bin\Debug\preproccesingderectives.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\preproccesingderectives\preproccesingderectives\obj\Debug\preproccesingderectives.csprojAssemblyReference.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\preproccesingderectives\preproccesingderectives\obj\Debug\preproccesingderectives.csproj.CoreCompileInputs.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\preproccesingderectives\preproccesingderectives\obj\Debug\preproccesingderectives.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\preproccesingderectives\preproccesingderectives\obj\Debug\preproccesingderectives.pdb

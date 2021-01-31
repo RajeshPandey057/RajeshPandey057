@@ -1,0 +1,14 @@
+E:\Educational\dot.NET\Indexers\Indexers\bin\Debug\Indexers.exe.config
+E:\Educational\dot.NET\Indexers\Indexers\bin\Debug\Indexers.exe
+E:\Educational\dot.NET\Indexers\Indexers\bin\Debug\Indexers.pdb
+E:\Educational\dot.NET\Indexers\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+E:\Educational\dot.NET\Indexers\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+E:\Educational\dot.NET\Indexers\Indexers\obj\Debug\Indexers.exe
+E:\Educational\dot.NET\Indexers\Indexers\obj\Debug\Indexers.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Indexers\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Indexers\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Indexers\Indexers\obj\Debug\Indexers.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Indexers\Indexers\obj\Debug\Indexers.pdb
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Indexers\Indexers\bin\Debug\Indexers.exe.config
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Indexers\Indexers\bin\Debug\Indexers.exe
+D:\Professional\Study\Dot Net\codes-20190317T104739Z-001\codes\Indexers\Indexers\bin\Debug\Indexers.pdb

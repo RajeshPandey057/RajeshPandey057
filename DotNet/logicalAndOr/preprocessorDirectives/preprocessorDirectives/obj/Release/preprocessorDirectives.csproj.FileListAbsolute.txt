@@ -1,0 +1,6 @@
+D:\College\SEM 6\16CP032_NET\Programs\preprocessorDirectives\preprocessorDirectives\bin\Release\preprocessorDirectives.exe.config
+D:\College\SEM 6\16CP032_NET\Programs\preprocessorDirectives\preprocessorDirectives\bin\Release\preprocessorDirectives.exe
+D:\College\SEM 6\16CP032_NET\Programs\preprocessorDirectives\preprocessorDirectives\bin\Release\preprocessorDirectives.pdb
+D:\College\SEM 6\16CP032_NET\Programs\preprocessorDirectives\preprocessorDirectives\obj\Release\preprocessorDirectives.csproj.CoreCompileInputs.cache
+D:\College\SEM 6\16CP032_NET\Programs\preprocessorDirectives\preprocessorDirectives\obj\Release\preprocessorDirectives.exe
+D:\College\SEM 6\16CP032_NET\Programs\preprocessorDirectives\preprocessorDirectives\obj\Release\preprocessorDirectives.pdb
