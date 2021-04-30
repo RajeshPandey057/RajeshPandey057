@@ -1,12 +1,12 @@
 <h1>Hi 👋, I'm Rajesh Pandey</h1>
-<h3>A passionate developer from India, Love working with latest trends in computer technologies Impressive communication skills and effective management. Technically sound and practically brilliant. I want to utilize my extensive skills, education and theoretical knowledge of engineering in practical point of view, which will be beneficial for organization as well as helpful for personal development regarding engineering and its practice.</h3>
+<h3>A passionate developer from India,Just sailing through infinit ocean of mordern technologies, learning and contributingmy tidbits here and there. Love working with latest trends in computer technologies Impressive communication skills and effective management. Technically sound and practically brilliant. .</h3>
 <br/>
 <h3>Connect With me</h3>
 <p>
-<a href="https://twitter.com/@rajeshpandey_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@rajeshpandey_14" height="30" width="30" /></a>
+<a href="https://twitter.com/@Rajeshpandey057" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@rajeshpandey_14" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/rajeshpandey057" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajeshpandey057" height="30" width="30" /></a>
-<a href="https://instagram.com/rajeshpandey_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rajeshpandey_" height="30" width="30" /></a>
-<a href="https://www.geeksforgeeks.com/rpandey1498" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="rpandey1498" height="30" width="30" /></a>
+<a href="https://instagram.com/rajeshpandey057" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rajeshpandey_" height="30" width="30" /></a>
+<a href="https://www.geeksforgeeks.com/rajeshpandey057" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="rpandey1498" height="30" width="30" /></a>
 </p>
 <br/>
 <h3>Reach me and my work</h3>
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RajeshPandey057](https://github.com/RajeshPandey057)
 
-- 📫 Reach me at **rpandey1498@gmail.com**
+- 📫 Reach me at **rajesh-pandey@outlook.in**
 
 - ⚡ **Wakanda Forever**
 <br/>
