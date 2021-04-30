@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Rajesh Pandey</h1>
-<h3>A passionate developer from India,Just sailing through infinit ocean of mordern technologies, learning and contributingmy tidbits here and there. Love working with latest trends in computer technologies Impressive communication skills and effective management. Technically sound and practically brilliant. .</h3>
+<h3>A passionate developer from India, Just sailing through infinit ocean of mordern technologies, learning and contributing my tidbits here and there. Love working with latest trends in computer technologies, Impressive communication skills and effective management. Technically sound and practically brilliant.</h3>
 <br/>
 <h3>Connect With me</h3>
 <p>
