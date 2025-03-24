@@ -1,7 +1,7 @@
 # Hi there! I'm Rajesh Pandey
 
 **Solutions Architect** • **System Design Engineer** • **Tech Enthusiast** • **Aspiring Entrepreneur**  
-**Co-Founder at [Medsi](https://en.medsi.app/)** | **Experimenting with LLM and GenAI**
+**Co-Founder at [6Digit](https://6digit.in/)** | **Experimenting with LLM and GenAI**
 
 I’m passionate about building end-to-end solutions – from designing **cloud architectures** and robust **backends** to crafting intuitive **front-end** experiences. When not coding, you might find me exploring the latest DevOps practices or sharing insights on emerging tech.  
 
